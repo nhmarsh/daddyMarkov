@@ -12,3 +12,6 @@ node_modules
 
 # Prod Bundle
 build
+
+# IntelliJ folders
+.idea
